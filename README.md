@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Decode Morse Code] <a name="about-project"></a>
+# 📖 [Create your own Enumerable] <a name="about-project"></a>
 
-The "Decode Morse Code" project is a Ruby exercise designed to help users warm up. Its purpose is to take an encoded message in Morse code and provide the decoded version as output.
+The "Create your own Enumerable" project is a Ruby exercise designed to help users warm up.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -65,7 +65,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:mwismann/decode_a_morse_code.git
+  git clone git@github.com:everinurmind/enumerable.git
 ```
 
 ### Usage
@@ -73,7 +73,7 @@ Clone this repository to your desired folder:
 To run the project, execute the following commands:
 
 ```sh
-  ruby decode.rb
+  ruby main.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -101,7 +101,7 @@ To run the project, execute the following commands:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/everinurmind/morse-code/issues).
+Feel free to check the [issues page](https://github.com/everinurmind/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
