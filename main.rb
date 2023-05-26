@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'my_list'
 require_relative 'my_enumerable'
 list = MyList.new(1, 2, 3, 4)
