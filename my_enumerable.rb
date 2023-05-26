@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # This module provides enumerable methods for collections.
 module MyEnumerable
   def all?

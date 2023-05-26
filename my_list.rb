@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative 'my_enumerable'
 
 # Represents a list that includes the MyEnumerable module.
@@ -10,7 +8,7 @@ class MyList
     @list = list
   end
 
-  def each(&block)
-    @list.each(&block)
+  def each(&)
+    @list.each(&)
   end
 end
