@@ -43,7 +43,7 @@ The "Create your own Enumerable" project is a Ruby exercise designed to help use
 
 ### Key Features <a name="key-features"></a>
 
-- **Decode the message from the old bottle**
+- **Create your own Enumerable**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
